@@ -10,6 +10,7 @@ What tools and technologies I use for the applications I develop.
 
 **Tools**: VS Code, Figma, GitHub, Chrome  
 **Backend**: Node.JS with Express, Firebase  
+**Databases**: MySQL, MongoDB  
 **Frontend**: HTML, CSS, Javascript, React & Gatsby  
 
 # My certificates
