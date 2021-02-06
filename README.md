@@ -1,16 +1,22 @@
-### Hi there 👋
+# Petre Gabriel
+Hello there! 👋 I am Petre Gabriel 👨‍💻, a 16 years old Full Stack Web Developer from Romania
 
-<!--
-**Petre-Gabriel/Petre-Gabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![](https://i.imgur.com/0VxjtpP.png)](https://petregabriel.ro "![](https://i.imgur.com/0VxjtpP.png)")
 
-Here are some ideas to get you started:
+![](https://img.shields.io/badge/Finished%20Projects-10-success)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Tools & Stack
+What tools and technologies I use for the applications I develop.
+
+**Tools**: VS Code, Figma, GitHub, Chrome
+**Backend**: Node.JS with Express, Firebase
+**Frontend**: HTML, CSS, Javascript, React & Gatsby.
+
+# My certificates
+My certificates from the courses I took and from the contests I participated in. More are coming soon 😃
+![](https://i.imgur.com/QjXDpo4.jpg)
+![](https://i.imgur.com/i5e9m74.png)
+
+
+# A picture of my cat 🐈
+![](https://i.imgur.com/dCYVuEp.jpg)
