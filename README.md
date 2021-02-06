@@ -8,9 +8,9 @@ Hello there! 👋 I am Petre Gabriel 👨‍💻, a 16 years old Full Stack Web 
 # Tools & Stack
 What tools and technologies I use for the applications I develop.
 
-**Tools**: VS Code, Figma, GitHub, Chrome
-**Backend**: Node.JS with Express, Firebase
-**Frontend**: HTML, CSS, Javascript, React & Gatsby.
+**Tools**: VS Code, Figma, GitHub, Chrome  
+**Backend**: Node.JS with Express, Firebase  
+**Frontend**: HTML, CSS, Javascript, React & Gatsby  
 
 # My certificates
 My certificates from the courses I took and from the contests I participated in. More are coming soon 😃
