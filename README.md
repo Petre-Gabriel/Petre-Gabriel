@@ -10,4 +10,4 @@ What tools and technologies I use for the applications I develop.
 **Backend**: NestJS, Firebase  
 **Databases**: MySQL, MongoDB
 **Frontend**: HTML, CSS, Javascript, React & Next.JS
-+ Typescript
+\+ Typescript
