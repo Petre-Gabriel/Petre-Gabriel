@@ -9,5 +9,4 @@ What tools and technologies I use for the applications I develop.
 **Tools**: VS Code, Figma, GitHub, Chrome  
 **Backend**: NestJS, Firebase  
 **Databases**: MySQL, MongoDB
-**Frontend**: HTML, CSS, Javascript, React & Next.JS
-\n\+ Typescript
+**Frontend**: HTML, CSS, Typescript, React & Next.JS
