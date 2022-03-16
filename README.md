@@ -1,5 +1,5 @@
 # Petre Gabriel
-Hello there! 👋 I am Petre Gabriel 👨‍💻, a 17 years old Full Stack Web Developer from Romania
+Hello there! 👋 I am Petre Gabriel 👨‍💻, a Full Stack Web Developer from Romania
 
 ![](https://img.shields.io/badge/email-office%40petregabriel.ro-white)
 
